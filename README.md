@@ -5,6 +5,6 @@
   Call as: python ImgtoDiscEmoji.py sourcefolder/ destinationfolder/
 
 ## Watermarker
-  Script to apply watermark to a given PDF file.
+  Script to apply watermark to a given PDF file.\n
   Call as: python watermarker.py original-pdf-path watermark-pdf-path
-  Watermarked PDF will be created in folder containing watermarker.py
+  Watermarked PDF will be created in folder where watermark.py is called.
